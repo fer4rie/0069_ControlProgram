@@ -13,4 +13,4 @@ int main(){
     }
 
     cout << "Bilangan yang diberikan = "<<x;
-}
+} //Program ini akan menghasilkan bilangan acak antara 0 sampai 9, jika bilangan tersebut adalah 5 maka akan dikoreksi menjadi 6.
